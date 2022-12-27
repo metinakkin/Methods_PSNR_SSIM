@@ -31,7 +31,7 @@ make -j4
 
 ./FSRCNN
 
-# LapSRN
+# LaPSRN
 
 ## Compiler and Run C++ code
 
@@ -39,4 +39,4 @@ cmake .
 
 make -j4
 
-./LapSRN
+./LaPSRN
